@@ -22,5 +22,6 @@ Hakotchi is a tamagotchi simulates a living creature that depends on its environ
 | Am2302 module | 1 | $0.41 | TaoBao |
 | Passive Buzzer Module | 1 | $1.30 | AliXpress |
 | Photoresistor Module | 1 | $0.54 | TaoBao |
-| Total ≈≈ $101.30 |
+| Total | | ≈≈ $101.30 | |
+Price as of 1/6/20206 1MYR to 0.252USD 
 
