@@ -3,4 +3,5 @@ Hakotchi is a tamagotchi simulates a living creature that depends on its environ
 
 
 ## Wiring Schematic
-<img width="1110" height="800" alt="wiring schematics" src="https://github.com/user-attachments/assets/13cddb80-935f-42a4-aa56-eaf5d325f58e" />
+<img width="1110" height="800" alt="wiring schematics" src="https://github.com/user-attachments/assets/ef53d230-df9e-48fc-86ff-93539fb83e67" />
+
