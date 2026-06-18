@@ -6,7 +6,7 @@
 
   <div>
 
-## Hakogotchi
+# Hakogotchi
 
 Hakogotchi is an environment-aware virtual pet inspired by the classic Tamagotchi. Using real-world temperature, humidity, and light data, players must care for their pet while managing the environment around it.
 
