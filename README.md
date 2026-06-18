@@ -7,7 +7,8 @@ Basically the modern twist of the vintage button tamagotchi and the size of a sm
 I wanted to make it because i'm not a pet person but wanted a way to enjoy taking care of something and be entertaining at the same time daily while making it more modern to my taste.
 
 ## Wiring Schematic
-<img width="954" height="758" alt="wiring schematics" src="https://github.com/user-attachments/assets/645b1adb-a42c-4cae-ab5d-2fde1ad9fea0" />
+<img width="1110" height="798" alt="wiring schematics" src="https://github.com/user-attachments/assets/a885ae00-0209-474c-b771-0817165c1d95" />
+
   
 🟥RED = +wire
 ⬛BLACK = -wire
