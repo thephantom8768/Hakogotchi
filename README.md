@@ -25,6 +25,7 @@ Built on the Orange Pi Zero 3W, Hakogotchi combines touchscreen controls, enviro
 - 🔋 Portable battery-powered design  
 
 ***Inspiration:***
+
 I've always wanted to have a companion but don't want the heavy responsibilities of IRL pets. Thus with Hakogotchi, I can still simulate having a pet without the stress and long-term commitment of real-life care.
 
 </td>
