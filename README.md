@@ -9,7 +9,23 @@ I wanted to make it because i'm not a pet person but wanted a way to enjoy takin
 ## Wiring Schematic
 <img width="1110" height="798" alt="wiring schematics" src="https://github.com/user-attachments/assets/a885ae00-0209-474c-b771-0817165c1d95" />
 
-  
+## 3D Model
+
+<table>
+  <tr>
+    <td><img width="385" height="616" alt="image" src="https://github.com/user-attachments/assets/cf672c1e-390e-484f-b22d-a77cbd1df89f" />
+</td>
+    <td><img width="756" height="532" alt="image" src="https://github.com/user-attachments/assets/db9ef7bc-2896-413d-b86b-c950dcc6d430" />
+</td>
+  </tr>
+  <tr>
+    <td><img width="661" height="534" alt="image" src="https://github.com/user-attachments/assets/51f8405a-ca68-4b7a-b74b-7155c0798049" />
+</td>
+    <td><img width="586" height="541" alt="image" src="https://github.com/user-attachments/assets/991854f4-e1e2-4b24-b8a4-ca32d221b3c5" />
+</td>
+  </tr>
+</table>
+
 🟥RED = +wire
 ⬛BLACK = -wire
 🟩GREEN = Data wire
