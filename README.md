@@ -1,10 +1,10 @@
+<table>
+  <tr>
+    <td width="40%">
+      <img width="400" src="https://github.com/user-attachments/assets/eae0feda-9eb3-49b1-84a1-148d99fe89f8">
+    </td>
 
-<div style="display: flex; align-items: center; gap: 20px;">
-
-<img width="400" height="617" alt="dPA1mnMY" src="https://github.com/user-attachments/assets/eae0feda-9eb3-49b1-84a1-148d99fe89f8" />
-
-
-  <div>
+    <td width="60%" valign="top">
 
 # Hakogotchi
 
@@ -12,15 +12,17 @@ Hakogotchi is an environment-aware virtual pet inspired by the classic Tamagotch
 
 Built on the Orange Pi Zero 3W, Hakogotchi combines touchscreen controls, environmental sensors, and a Game Boy-inspired handheld design to create a modern virtual companion experience.
 
-***Features***:
-- 🌡️ Real-time temperature monitoring
-- 💧 Humidity-based pet mood system
-- ☀️ Ambient light interaction
-- 📱 Touchscreen controls
-- 🎮 Mini-games and activities
-- 🔋 Portable battery-powered design
+**Features:**
+- 🌡️ Real-time temperature monitoring  
+- 💧 Humidity-based pet mood system  
+- ☀️ Ambient light interaction  
+- 📱 Touchscreen controls  
+- 🎮 Mini-games and activities  
+- 🔋 Portable battery-powered design  
 
-  </div>
+    </td>
+  </tr>
+</table>
 
 </div>
 
