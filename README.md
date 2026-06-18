@@ -1,10 +1,23 @@
 
-# Hakogotchi
-Hakogotchi is a tamagotchi that simulates a pets that depends on its environment to survive. Players must carefully manage food, entertainment, light levels, temperature, and humidity to keep their pet healthy and happy. It turns virtual pet care into a challenging environmental management experience, basically tamagotchi on hard mode! 
+## Hakogotchi
 
-Basically the modern twist of the vintage button tamagotchi and the size of a smartphone ( a little chunky thou). It is powered by a Radxa Zero 3W that provides modern computing power and the ability for touchscreen to control and play. Moreover, it has temperature, humidity and light sensor that allows the pet to feel the enivronment and affect its stats in-game. 
+Hakogotchi is a modern take on the classic Tamagotchi, combining virtual pet care with real-world environmental interaction. Unlike traditional virtual pets, Hakogotchi's wellbeing is influenced by its surroundings. Players must manage food, entertainment, temperature, humidity, and light levels to keep their pet healthy and happy.
 
-I wanted to make it because i'm not a pet person but wanted a way to enjoy taking care of something and be entertaining at the same time daily while making it more modern to my taste.
+Designed as a "hard mode" Tamagotchi experience, the game encourages players to pay attention to their environment rather than simply pressing buttons. Environmental data collected from onboard sensors directly affects the pet's in-game status and behaviour.
+
+The device is powered by an Orange Pi Zero 3W and features a touchscreen interface for intuitive interaction. Integrated temperature, humidity, and light sensors allow the pet to react to real-world conditions, creating a more immersive and engaging experience. 
+
+Hakogotchi was designed with a form factor inspired by the classic Game Boy, providing a portable and comfortable handheld experience. Its vertically oriented design is wide enough to allow a secure two-handed grip while remaining compact enough for everyday carry.
+
+Hakogotchi was created because i want to have a virtual companion but want a more modern and interactive experience (I don't like irl pets). By combining classic virtual pet gameplay with real-world sensing, Hakogotchi brings the Tamagotchi concept into the present day.
+
+***Features***:
+- 🌡️ Real-time temperature monitoring
+- 💧 Humidity-based pet mood system
+- ☀️ Ambient light interaction
+- 📱 Touchscreen controls
+- 🎮 Mini-games and activities
+- 🔋 Portable battery-powered design
 
 ## Wiring Schematic
 <img width="1110" height="798" alt="wiring schematics" src="https://github.com/user-attachments/assets/a885ae00-0209-474c-b771-0817165c1d95" />
