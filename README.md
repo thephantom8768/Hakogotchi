@@ -34,3 +34,9 @@ I wanted to make it because i'm not a pet person but wanted a way to enjoy takin
 ## Bill Of Materials
 <img width="1184" height="586" alt="BOM" src="https://github.com/user-attachments/assets/b57151c8-ba51-43d4-a4cf-e52cbc0abcc6" />
 
+## Flashing Firmware (Android)
+|Step|Instructions|
+| ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|**1. Download Android Image & Tools**| Go to the Orange Pi Official Resources page and download the Android image for the Orange Pi Zero 3W. Download **PhoenixCard**, the official tool used to flash Android images to Allwinner-based boards.                                                                                                                                             |
+|**2. Flash the MicroSD Card**| 1. Insert the MicroSD card into your PC and format it as **FAT32** (avoid Quick Format).<br>2. Open **PhoenixCard**.<br>3. Click **Img File** and select the downloaded Android image.<br>4. Set the write mode to **Product**.<br>5. Select the correct MicroSD card drive letter.<br>6. Click **Burn** and wait until the process reaches **100%**. |
+| **3. Boot the Orange Pi Zero 3W**     | 1. Remove the MicroSD card from the PC and insert it into the Orange Pi Zero 3W.<br>2. Connect an HDMI display, USB keyboard, and mouse.<br>3. Connect the power supply.<br>4. Wait several minutes for the first boot while Android initializes.                                                                                                     |
