@@ -16,5 +16,5 @@ I wanted to make it because i'm not a pet person but wanted a way to enjoy takin
 🟧ORANGE = Audio wire
 
 ## Bill Of Materials
-<img width="582" height="298" alt="BOM" src="https://github.com/user-attachments/assets/b57151c8-ba51-43d4-a4cf-e52cbc0abcc6" />
+<img width="1184" height="586" alt="BOM" src="https://github.com/user-attachments/assets/b57151c8-ba51-43d4-a4cf-e52cbc0abcc6" />
 
