@@ -1,15 +1,9 @@
 
 ## Hakogotchi
 
-Hakogotchi is a modern take on the classic Tamagotchi, combining virtual pet care with real-world environmental interaction. Unlike traditional virtual pets, Hakogotchi's wellbeing is influenced by its surroundings. Players must manage food, entertainment, temperature, humidity, and light levels to keep their pet healthy and happy.
+Hakogotchi is an environment-aware virtual pet inspired by the classic Tamagotchi. Using real-world temperature, humidity, and light data, players must care for their pet while managing the environment around it.
 
-Designed as a "hard mode" Tamagotchi experience, the game encourages players to pay attention to their environment rather than simply pressing buttons. Environmental data collected from onboard sensors directly affects the pet's in-game status and behaviour.
-
-The device is powered by an Orange Pi Zero 3W and features a touchscreen interface for intuitive interaction. Integrated temperature, humidity, and light sensors allow the pet to react to real-world conditions, creating a more immersive and engaging experience. 
-
-Hakogotchi was designed with a form factor inspired by the classic Game Boy, providing a portable and comfortable handheld experience. Its vertically oriented design is wide enough to allow a secure two-handed grip while remaining compact enough for everyday carry.
-
-Hakogotchi was created because i want to have a virtual companion but want a more modern and interactive experience (I don't like irl pets). By combining classic virtual pet gameplay with real-world sensing, Hakogotchi brings the Tamagotchi concept into the present day.
+Built on the Orange Pi Zero 3W, Hakogotchi combines touchscreen controls, environmental sensors, and a Game Boy-inspired handheld design to create a modern virtual companion experience.
 
 ***Features***:
 - 🌡️ Real-time temperature monitoring
