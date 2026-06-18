@@ -42,6 +42,10 @@ I wanted to make it because i'm not a pet person but wanted a way to enjoy takin
 | **3. Boot the Orange Pi Zero 3W**     | 1. Remove the MicroSD card from the PC and insert it into the Orange Pi Zero 3W.<br>2. Connect an HDMI display, USB keyboard, and mouse.<br>3. Connect the power supply.<br>4. Wait several minutes for the first boot while Android initializes.                                                                                                     |
 
 ## Game
-Not restricted to my own game, you can download other games that can run (side-loading required as it does not have full google play service). My game (Still in progress) will be uploaded here as .apk file when completed (gimmi 2months?).
+Not restricted to my own game, you can download other games that can run
+
+(side-loading required as it does not have full google play service)
+
+My game (Still in progress) will be uploaded here as .apk file when completed (gimmi 2months?).
 
 ## Zine
