@@ -15,17 +15,4 @@ I wanted to make it because i'm not a pet person but wanted a way to enjoy takin
 🟧ORANGE = Audio wire
 
 ## Bill Of Materials
-| Parts | Quantity | Price(USD) | From |
-|--------|----------|----------|----------|
-| 5-inch Touch Screen | 1 | $28.40 | TaoBao |
-| Radxa ZERO 3W 2GB | 1 | $34.03 | Lazada Malaysia |
-| Power Distribution Board | 1 | $0.80 | AliXpress |
-| Battery 18650 1S4P 5V | 1 | $32.50 | AliXpress |
-| Digital Amplifier | 1 | $1.42 | AliXpress |
-| 3525 2W Speaker | 2 | $0.95 x2 | AliXpress |
-| Am2302 module | 1 | $0.41 | TaoBao |
-| Passive Buzzer Module | 1 | $1.30 | AliXpress |
-| Photoresistor Module | 1 | $0.54 | TaoBao |
-| Total | - | ≈≈ $101.30 | - |
-* Price as of 1/6/20206 1MYR to 0.252USD 
-
+<img width="586" height="300" alt="image" src="https://github.com/user-attachments/assets/848d428b-6f5b-4ca1-9e2b-77bdb2a2f9a4" />
